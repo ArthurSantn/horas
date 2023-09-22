@@ -40,6 +40,12 @@ div#hora {
     text-align: center;
 }
 
+img {
+    display: block;
+    margin: auto;
+    padding-top: 40px;
+}
+
 footer, a {
     padding-top: 25px;
     text-align: center;
